@@ -1,0 +1,170 @@
+/* common */
+@import url(http://spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,700);
+
+body,
+table,
+div,
+p,
+a {
+  font-family: 'Roboto', 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(142deg, #f4a35b, #f4655b 31%, #d16098 65%, #ca3469); /*#2c3e50;*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+p {
+  font-weight:100;
+  word-break: keep-all;
+}
+
+
+.contentbox {
+  margin: 2rem;
+}
+
+.inner_contentbox {
+  margin: 2rem 1rem;
+}
+
+.disabled {
+  text-decoration: line-through;
+}
+
+.wiki_container {
+  padding: 1rem;
+  border-radius: .3rem;
+  background: white; /*#e9ecef;*/
+  /* border: 1px solid white; */
+}
+
+.border {
+  border:1px solid rgba(0, 0, 0, 0.12);
+  /* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); */
+  /* margin-bottom: 2px; */
+}
+
+blockquote {
+  padding: 0 0 0 1rem;
+  margin: 1rem 0;
+  border-left : 3px solid black;
+  font-weight: 100;
+  font-size:0.9rem;
+}
+
+.btn-deploy {
+  display: inline-block;
+  position: relative;
+  line-height: 22px;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 3px 12px;
+  margin-left:2px;
+  font-weight: 400;
+  background: #008864;
+  color: #eee !important;
+  border-radius: 1px;
+}
+
+/* Home */
+h5.float-right {
+  margin: 0.2rem;
+}
+
+span.badge {
+  margin-left: 5px;
+  font-weight: 400;
+}
+
+.guide_jumbotron {
+  text-align: center;
+}
+
+.guide_jumbotron img.logo {
+  margin-bottom: 1rem;
+}
+
+.guide_jumbotron .btn:first-child {
+  margin-right: 1rem;
+}
+
+/* Installation Component */
+.installation_container {
+  padding-top: 1rem;
+  border-radius: .3rem;
+  background: rgba(0, 0, 0, .7);
+  color: white;
+  border: 1px solid transparent;
+}
+
+.subtitle {
+  margin-bottom: 1rem;
+}
+
+hr.white {
+  border-color: white;
+}
+
+p.focus {
+  background: white;
+  color: black;
+  padding: 0 5px;
+  display: inline;
+}
+
+.footer {
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 100;
+  margin: 1rem 0.5rem;
+}
+
+/* Menu Component */
+.menu * {
+  font-weight: 100;
+}
+
+/* About Component */
+.wiki_container img {
+  padding: 5px;
+}
+
+.horizontal-imgbox {
+  display: inline-block;
+}
+
+.img_description {
+  font-size: 0.8rem;
+  color: grey;
+}
+
+/* sidebar */
+.sidebar {
+  width: auto;
+  /* position: fixed; */
+
+  background: white;
+}
+
+.sidebar p {
+  font-weight: 400;
+}
+
+.sidebar .nav-link {
+  color: black;
+  font-weight: 100;
+}
+
+.sidebar .nav-link:hover {
+  color: #ff6666;
+}
