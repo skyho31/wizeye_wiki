@@ -3,15 +3,23 @@ import {Container, Jumbotron, Button, Badge} from 'reactstrap';
 import {Link} from 'react-router-dom';
 import Logo from '../../img/dataengine_logo.png';
 
+/* setting */
+import {version as GuideVersion} from '../../../package.json';
+
 /**
  * Home Contents 1 - Jumbotron
  */
 export const MainDoor = () => (
   <div>
-    <h5 className="float-right">
+    <h5 className="float-right text-right">
+      <Badge color="info">Flow Editor</Badge>
+      <Badge color="info">Runtime Server</Badge>
+      <Badge color="info">Processor Server</Badge>
+      <br />
+
       <Badge color="secondary">Node-RED</Badge>
-      <Badge color="dark">ADP</Badge>
       <Badge color="dark">WIZEYE</Badge>
+      <Badge color="success">v {GuideVersion}</Badge>
     </h5>
     <Jumbotron className="guide_jumbotron">
       <img src={Logo} className="logo" width={200} alt={'logo'} />
@@ -63,4 +71,3 @@ export const Installation = () => (
     </div>
   </Container>
 );
-

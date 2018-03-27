@@ -28,6 +28,9 @@ p {
   word-break: keep-all;
 }
 
+pre {
+  margin: 0;
+}
 
 .contentbox {
   margin: 2rem;
@@ -74,6 +77,11 @@ blockquote {
   background: #008864;
   color: #eee !important;
   border-radius: 1px;
+}
+
+.hljs {
+  font-size:12px;
+  padding:1rem;
 }
 
 /* Home */
@@ -141,6 +149,10 @@ p.focus {
 
 .horizontal-imgbox {
   display: inline-block;
+}
+
+.horizontal-imgbox img{
+  padding: 5px 5px 5px 0;
 }
 
 .img_description {

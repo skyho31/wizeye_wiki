@@ -19,10 +19,9 @@ const Chapter = ({location, match}) => {
       route: true,
       title: 'Quick Start',
       items: [
-        {text: 'Make Simple Flow', href: `${match.url}/quickstart#process`},
-        {text: 'Deploy Flow', href: `${match.url}/quickstart/deployflow`},
-        {text: 'Copy & Paste Flow', href: `${match.url}/quickstart/copypasteflow`},
-        {text: 'Import & Export Flow', href: `${match.url}/quickstart/importexportflow`}
+        {text: 'Collect External Data', href: `${match.url}/quickstart/step1`},
+        {text: 'Parse Data', href: `${match.url}/quickstart/step2`},
+        {text: 'Send Data to Processor', href: `${match.url}/quickstart/step3`},
       ]
     },
     {
@@ -41,7 +40,7 @@ const Chapter = ({location, match}) => {
       title: 'Flow',
       items: [
         {text: 'Flow', href: `${match.url}/flow/simpleflow`},
-        {text: 'Deploy Flow', href: `${match.url}/flow/deployflow`},
+        {text: 'Sub Flow', href: `${match.url}/flow/subflow`},
         {text: 'Copy & Paste Flow', href: `${match.url}/flow/copypasteflow`},
         {text: 'Import & Export Flow', href: `${match.url}/flow/importexportflow`}
       ]
@@ -50,7 +49,7 @@ const Chapter = ({location, match}) => {
       title: 'Advanced Guide',
       items: [
         {text: 'Confluence page', href: `https://n3n-us.atlassian.net/wiki/spaces/teamdev/pages/84061742/ADP+Web+Service`},
-        {text: 'Dataengine PDF manual', href: `#`}
+        {text: 'Dataengine PDF manual', href: '#'}
       ]
     }
   ];

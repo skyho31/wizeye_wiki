@@ -1,0 +1,1031 @@
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 26 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 19 ms
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 18 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 43 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 48 ms
+[ Data Push Total Time ] : 28 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 45 ms
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 45 ms
+[ Data Push Total Time ] : 53 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 23 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 46 ms
+[ Data Push Total Time ] : 54 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 55 ms
+[ Data Push Total Time ] : 61 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 46 ms
+[ Data Push Total Time ] : 47 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 113 ms
+[ Data Push Total Time ] : 80 ms
+[ Data Push Total Time ] : 148 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 63 ms
+[ Data Push Total Time ] : 23 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 46 ms
+[ Data Push Total Time ] : 80 ms
+[ Data Push Total Time ] : 27 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 21 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 48 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 47 ms
+[ Data Push Total Time ] : 54 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 46 ms
+[ Data Push Total Time ] : 65 ms
+Running Data Saver : 0 // PushData Queue Count : 1
+[ Data Push Total Time ] : 37 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 52 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 66 ms
+[ Data Push Total Time ] : 66 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 52 ms
+[ Data Push Total Time ] : 55 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 55 ms
+[ Data Push Total Time ] : 80 ms
+[ Data Push Total Time ] : 40 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 46 ms
+[ Data Push Total Time ] : 59 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 21 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 65 ms
+[ Data Push Total Time ] : 70 ms
+[ Data Push Total Time ] : 25 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 56 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 59 ms
+[ Data Push Total Time ] : 19 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 57 ms
+[ Data Push Total Time ] : 61 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 56 ms
+[ Data Push Total Time ] : 19 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 52 ms
+[ Data Push Total Time ] : 73 ms
+[ Data Push Total Time ] : 30 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 45 ms
+[ Data Push Total Time ] : 48 ms
+[ Data Push Total Time ] : 30 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 54 ms
+[ Data Push Total Time ] : 29 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 83 ms
+[ Data Push Total Time ] : 103 ms
+[ Data Push Total Time ] : 95 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 19 ms
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 45 ms
+[ Data Push Total Time ] : 29 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 71 ms
+[ Data Push Total Time ] : 90 ms
+[ Data Push Total Time ] : 55 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 52 ms
+[ Data Push Total Time ] : 31 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 58 ms
+[ Data Push Total Time ] : 31 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 22 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 49 ms
+[ Data Push Total Time ] : 56 ms
+[ Data Push Total Time ] : 39 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 48 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 67 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 56 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 21 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 9 ms
+[ Data Push Total Time ] : 43 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 19 ms
+[ Data Push Total Time ] : 43 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 60 ms
+[ Data Push Total Time ] : 64 ms
+[ Data Push Total Time ] : 93 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 56 ms
+[ Data Push Total Time ] : 43 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 73 ms
+[ Data Push Total Time ] : 52 ms
+[ Data Push Total Time ] : 71 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 56 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 48 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 60 ms
+[ Data Push Total Time ] : 64 ms
+[ Data Push Total Time ] : 54 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 55 ms
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 63 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 60 ms
+[ Data Push Total Time ] : 65 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 62 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 70 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 21 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 50 ms
+[ Data Push Total Time ] : 54 ms
+[ Data Push Total Time ] : 40 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 43 ms
+[ Data Push Total Time ] : 71 ms
+[ Data Push Total Time ] : 49 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 68 ms
+[ Data Push Total Time ] : 59 ms
+[ Data Push Total Time ] : 79 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 63 ms
+[ Data Push Total Time ] : 66 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 56 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 52 ms
+[ Data Push Total Time ] : 67 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 73 ms
+[ Data Push Total Time ] : 80 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 39 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 40 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 57 ms
+[ Data Push Total Time ] : 64 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 64 ms
+[ Data Push Total Time ] : 31 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 21 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 43 ms
+[ Data Push Total Time ] : 47 ms
+[ Data Push Total Time ] : 25 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 67 ms
+[ Data Push Total Time ] : 70 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 23 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 54 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 24 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 46 ms
+[ Data Push Total Time ] : 37 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 49 ms
+[ Data Push Total Time ] : 22 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 53 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 43 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 402 ms
+[ Data Push Total Time ] : 341 ms
+[ Data Push Total Time ] : 407 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 58 ms
+[ Data Push Total Time ] : 63 ms
+[ Data Push Total Time ] : 21 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 23 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 19 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 21 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 33 ms
+Running Data Saver : 0 // PushData Queue Count : 1
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 46 ms
+[ Data Push Total Time ] : 57 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 9 ms
+[ Data Push Total Time ] : 46 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 27 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 22 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 154 ms
+[ Data Push Total Time ] : 151 ms
+[ Data Push Total Time ] : 208 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 104 ms
+[ Data Push Total Time ] : 65 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 9 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 47 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 19 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 47 ms
+[ Data Push Total Time ] : 19 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 48 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 56 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 60 ms
+[ Data Push Total Time ] : 68 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 21 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 19 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 66 ms
+[ Data Push Total Time ] : 81 ms
+[ Data Push Total Time ] : 49 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 19 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 47 ms
+[ Data Push Total Time ] : 80 ms
+[ Data Push Total Time ] : 23 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 48 ms
+[ Data Push Total Time ] : 19 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 39 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 73 ms
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 87 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 41 ms
+[ Data Push Total Time ] : 48 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 19 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 26 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 38 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 39 ms
+[ Data Push Total Time ] : 40 ms
+[ Data Push Total Time ] : 14 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 13 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 32 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 9 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 10 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 20 ms
+[ Data Push Total Time ] : 10 ms
+[ Data Push Total Time ] : 41 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 10 ms
+[ Data Push Total Time ] : 36 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 12 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 11 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 22 ms
+[ Data Push Total Time ] : 43 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 49 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 49 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 18 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 17 ms
+[ Data Push Total Time ] : 44 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 34 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 34 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 21 ms
+[ Data Push Total Time ] : 30 ms
+[ Data Push Total Time ] : 16 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 19 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 27 ms
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 19 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+Running Data Saver : 0 // PushData Queue Count : 1
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 13 ms
+[ Data Push Total Time ] : 36 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 22 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 23 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 24 ms
+[ Data Push Total Time ] : 42 ms
+[ Data Push Total Time ] : 20 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 33 ms
+[ Data Push Total Time ] : 35 ms
+[ Data Push Total Time ] : 15 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 26 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 21 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 36 ms
+[ Data Push Total Time ] : 31 ms
+[ Data Push Total Time ] : 17 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 28 ms
+[ Data Push Total Time ] : 14 ms
+[ Data Push Total Time ] : 37 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 97 ms
+[ Data Push Total Time ] : 236 ms
+[ Data Push Total Time ] : 239 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 122 ms
+[ Data Push Total Time ] : 136 ms
+[ Data Push Total Time ] : 97 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 37 ms
+[ Data Push Total Time ] : 29 ms
+[ Data Push Total Time ] : 90 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 51 ms
+[ Data Push Total Time ] : 59 ms
+[ Data Push Total Time ] : 108 ms
+DataEngine ReceiveMessage Sequence : 1, OpCode : PushData
+[ Data Push Total Time ] : 25 ms
+[ Data Push Total Time ] : 44 ms
+[ Data Push Total Time ] : 36 ms
