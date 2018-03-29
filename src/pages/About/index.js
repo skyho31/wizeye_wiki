@@ -13,8 +13,9 @@ const About = ({location, match}) => {
       items: [
         { text: "Data Engine", href:"#about_1_1"},
         { text: "Runtime & Editor", href:"#about_1_2"},
-        { text: "Flow-Based Programming", href:"#about_1_3"},
-        { text: "Reference", href:"#about_1_4"}
+        { text: "Processor", href:"#about_1_3"},
+        { text: "Flow-Based Programming", href:"#about_1_4"},
+        { text: "Reference", href:"#about_1_5"}
       ]
     }
   ];

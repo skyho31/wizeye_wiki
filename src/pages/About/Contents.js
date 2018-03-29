@@ -9,6 +9,7 @@ import JSlogo from '../../img/js.png';
 import NodeRED from '../../img/nodered.png';
 import ClientSide from '../../img/clientside.png';
 import ServerSide from '../../img/serverside.png';
+import DiagramImg from '../../img/dataengine_diagram.png';
 
 const Contents = () => (
   <Container className="wiki_container">
@@ -17,6 +18,7 @@ const Contents = () => (
       <hr />
       <DataEngine />
       <RuntimeEditor />
+      <Processor />
       <FlowBasedContents />
       <Reference />
     </div>
@@ -63,13 +65,30 @@ const RuntimeEditor = () => (
 );
 
 /**
- * about 3 - Flow-based Programming
+ * about 3 - Processor
+ */
+const Processor = () => (
+  <Row>
+    <div id="about_1_3" className="inner_contentbox">
+      <h4 className="subtitle">3. Processor</h4>
+      <p>
+        PS는 정형화된 Data를 수집하여 해당 Data의 관계를 통해 Hierarchy를 생성해주고 Data및 Object를 제공해주는 Processor입니다. <br />
+        <br />Flow Editor에서 Object Type및 Object Type의 관계를 설정 가능하며 설정한 Object Type에 Data를 수집시 Object가 생성됩니다. 수집한 Object의 Metric 정보를 통해 Aggregation기능을
+        제공하며 해당 기능으로 Data를 집계하여 수집합니다. DTG 맵 생성에 필요한 Object Type과 Object의 Hierarchy를 제공합니다. <br />저장 DB는 MariaDB를 사용중입니다.
+      </p>
+      <InnerImg src={DiagramImg} height="auto" width="100%" text="Data Engine Diagram" />
+    </div>
+  </Row>
+);
+
+/**
+ * about 4 - Flow-based Programming
  */
 
 const FlowBasedContents = () => (
   <Row>
-    <div id="about_1_3" className="inner_contentbox">
-      <h4 className="subtitle">3. Flow-based programming</h4>
+    <div id="about_1_4" className="inner_contentbox">
+      <h4 className="subtitle">4. Flow-based programming</h4>
       <p>
         Invented by J. Paul Morrison in the 1970s, flow-based programming is a way of describing an application’s behavior as a network of
         black-boxes, or “nodes” as they are called in Node-RED. Each node has a well-defined purpose; it is given some data, it does something with
@@ -82,14 +101,24 @@ const FlowBasedContents = () => (
   </Row>
 );
 
+/**
+ * about 5 - Reference
+ */
+
 const Reference = () => (
   <Row>
-    <div id="about_1_4" className="inner_contentbox">
-      <h4 className="subtitle">4. Reference</h4>
+    <div id="about_1_5" className="inner_contentbox">
+      <h4 className="subtitle">5. Reference</h4>
       <p>
-        Node-RED (<a href="https://nodered.org/">https://nodered.org/</a>)<br/>
-        Flow-based Programming(<a href="https://en.wikipedia.org/wiki/Flow-based_programming">https://en.wikipedia.org/wiki/Flow-based_programming</a>)<br/>
-        Confluence 분석 문서(<a href="https://n3n-us.atlassian.net/wiki/spaces/teamdev/pages/84061742/ADP+Web+Service">https://n3n-us.atlassian.net/wiki/spaces/teamdev/pages/84061742/ADP+Web+Service</a>)<br/>
+        Node-RED (<a href="https://nodered.org/">https://nodered.org/</a>)<br />
+        Flow-based Programming(<a href="https://en.wikipedia.org/wiki/Flow-based_programming">
+          https://en.wikipedia.org/wiki/Flow-based_programming
+        </a>)<br />
+        Confluence 분석 문서(<a href="https://n3n-us.atlassian.net/wiki/spaces/teamdev/pages/84061742/ADP+Web+Service">
+          https://n3n-us.atlassian.net/wiki/spaces/teamdev/pages/84061742/ADP+Web+Service
+        </a>)<br />
+        mariadb (<a href="https://mariadb.com/kb/ko/mariadb/">https://mariadb.com/kb/ko/mariadb/</a>)<br />
+        servicestack (<a href="http://docs.servicestack.net/">http://docs.servicestack.net/</a>)<br />
       </p>
     </div>
   </Row>

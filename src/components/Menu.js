@@ -23,7 +23,6 @@ const Menu = () => {
               Chapter
             </NavLink>
           </NavItem>
-
           <UncontrolledDropdown nav inNavbar>
             <DropdownToggle nav caret>
               한국어
