@@ -3,6 +3,7 @@
   "author": "shkim",
   "version": "0.14.0",
   "private": true,
+  "homepage" : "http://dev.wizeye.io:8082",
   "dependencies": {
     "global": "^4.3.2",
     "query-string": "^6.0.0",
