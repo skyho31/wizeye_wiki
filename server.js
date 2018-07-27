@@ -4,7 +4,7 @@ var app = require('fs');
 var app = express();
 app.use(express.static('build'));
 app.get('/', (req, res) => {
-  res.render('./build/index.html');
+  res.renderFile('./build/index.html');
 })
 
 
