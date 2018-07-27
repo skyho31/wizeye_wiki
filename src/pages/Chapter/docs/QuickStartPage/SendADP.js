@@ -16,6 +16,8 @@ const SendADP = () => (
   <Row>
     <div className="inner_contentbox">
       <h4 className="subtitle">Step 3. Send Data to Processor</h4>
+      <p className="lastEdited">last edited 2018.5.23</p>
+
       <p>
         지난 Step에선 1) <Link to={'/chapter/quickstart/step1'}>외부에서 데이터를 수집하고</Link>, 2)<Link to={'/chapter/quickstart/step2'}> 적절한 데이터의 모양으로 처리</Link>해주었습니다.
         실제로 이 데이터를 사용하려면 사용할 솔루션으로 데이터를 전송해 주어야합니다.<br />
@@ -30,7 +32,7 @@ const SendADP = () => (
         예제에선 object type node를 통해 processor에서 object type을 형성하게 하고, 데이터를 보내 preview에서 형성된 object를 확인해보겠습니다.
       </p>
       <InnerImg src={LinkObj} height={200} text="link to object type node" border />
-      <InnerImg src={ObjectTypeEditorWindow} height={400} text={'object type node editor'} border />
+      <InnerImg src={ObjectTypeEditorWindow} height={350} text={'object type node editor'} border />
       <p>
         이전 step에서 만들었던 function node를 object type node에 이어주고 object type node를 열어봅시다. Object Type을 형성하기 위해선 Object Type의 이름과 Object ID가 필요합니다. 현재 예제에선
         name에 <code>pushTime</code>을, ObjectID에는 <code>{'{key}'}</code>라는 이름을 넣어주었습니다.
