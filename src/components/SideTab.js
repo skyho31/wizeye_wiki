@@ -22,8 +22,6 @@ import Logo from '../img/dataengine_logo.png';
  */
 
 const SideTab = (props) => {
-  const Tag = props.route ? Link : NavLink;
-
   return (
     <Container className="sidebar wiki_container">
         <img src={Logo} height={40} alt={'logo'} style={{marginBottom:'1rem'}}/>
@@ -32,11 +30,18 @@ const SideTab = (props) => {
           {idx > 0 ? <hr /> : null}
           <Nav vertical>
             {option.title && <p key={idx}>{option.title}</p>}
-            {option.items.map((item, idx) => (
+            {option.route && option.items.map((item, idx) => (
               <NavItem key={idx}>
-                <Tag to={props.route && item.href} href={!props.route && item.href} key={idx}>
+                <Link className="nav-link" to={item.href} key={idx}>
                   {item.text}
-                </Tag>
+                </Link>
+              </NavItem>
+            ))}
+            {!option.route && option.items.map((item, idx) => (
+              <NavItem key={idx}>
+                <NavLink href={item.href} key={idx}>
+                  {item.text}
+                </NavLink>
               </NavItem>
             ))}
           </Nav>
