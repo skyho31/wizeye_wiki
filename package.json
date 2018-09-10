@@ -3,8 +3,9 @@
   "author": "shkim",
   "version": "0.14.0",
   "private": true,
-  "homepage" : "http://dev.wizeye.io:8082",
+  "homepage": "http://dev.wizeye.io:8082/",
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "global": "^4.3.2",
     "query-string": "^6.0.0",
     "react": "^16.2.0",
@@ -18,7 +19,9 @@
     "start": "cross-env NODE_PATH=src react-scripts start",
     "build": "cross-env NODE_PATH=src react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "cross-env": "^5.1.4"

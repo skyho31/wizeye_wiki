@@ -1,6 +1,6 @@
 import React from 'react';
 import {Container } from 'reactstrap';
-import { Route } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 
 /* Component */
 import {
@@ -10,11 +10,13 @@ import {
 
 const Contents = () => (
   <Container className="wiki_container">
-    <Route exact path={"/chapter"} component={BasicPage}/>
-    <Route path={"/chapter/quickstart"} component={QuickStartPage}/>
-    <Route path={"/chapter/node"} component={NodePage}/>
-    <Route path={"/chapter/flow"} component={FlowPage}/>
-    <Route path={"/chapter/advanced_guide"} component={Adv_guidePage}/>
+    <Switch>
+      <Route exact path={"/chapter"} component={BasicPage}/>
+      <Route path={"/chapter/quickstart"} component={QuickStartPage}/>
+      <Route path={"/chapter/node"} component={NodePage}/>
+      <Route path={"/chapter/flow"} component={FlowPage}/>
+      <Route path={"/chapter/advanced_guide"} component={Adv_guidePage}/>
+    </Switch>
   </Container>
 );
 

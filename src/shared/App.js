@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Route} from 'react-router-dom';
+import {Route, Switch} from 'react-router-dom';
 import {Home, About, Chapter} from 'pages';
 import Menu from '../components/Menu';
 import {Container} from 'reactstrap';
@@ -9,9 +9,11 @@ class App extends Component {
     return (
       <Container>
         <Menu />
-        <Route exact path="/" component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/chapter" component={Chapter} />
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/about" component={About} />
+          <Route path="/chapter" component={Chapter} />
+        </Switch>
         <Footer />
       </Container>
     );
